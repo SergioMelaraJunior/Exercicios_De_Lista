@@ -15,21 +15,21 @@ namespace Exercicios_De_Lista {
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
                 Console.Write("Nome: ");
-                string name = Console.ReadLine();
+                string nome = Console.ReadLine();
                 Console.Write("Salario: ");
-                double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                list.Add(new Empregado(id, name, salary));
+                double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                list.Add(new Empregado(id, nome, salario));
                 Console.WriteLine();
             }
 
             Console.Write("Insira o ID do funcionário que terá aumento salarial : ");
-            int searchId = int.Parse(Console.ReadLine());
+            int procurarId = int.Parse(Console.ReadLine());
 
-            Empregado emp = list.Find(x => x.Id == searchId);
+            Empregado emp = list.Find(x => x.Id == procurarId);
             if (emp != null) {
                 Console.Write("Entre com á porcentagem: ");
-                double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                emp.IncreaseSalary(percentage);
+                double porcentagem = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                emp.aumento(porcentagem);
             }
             else {
                 Console.WriteLine("Este ID não existe!");

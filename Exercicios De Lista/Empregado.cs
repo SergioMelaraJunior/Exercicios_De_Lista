@@ -15,8 +15,8 @@ namespace Exercicios_De_Lista {
             Salario = salario;
         }
 
-        public void IncreaseSalary(double percentage) {
-            Salario += Salario * percentage / 100.0;
+        public void aumento(double porcentagem) {
+            Salario += Salario * porcentagem / 100.0;
         }
 
         public override string ToString() {

@@ -1,0 +1,11 @@
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\bin\Debug\netcoreapp2.1\Exercicios De Lista.deps.json
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\bin\Debug\netcoreapp2.1\Exercicios De Lista.runtimeconfig.json
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\bin\Debug\netcoreapp2.1\Exercicios De Lista.runtimeconfig.dev.json
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\bin\Debug\netcoreapp2.1\Exercicios De Lista.dll
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\bin\Debug\netcoreapp2.1\Exercicios De Lista.pdb
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\obj\Debug\netcoreapp2.1\Exercicios De Lista.csprojAssemblyReference.cache
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\obj\Debug\netcoreapp2.1\Exercicios De Lista.csproj.CoreCompileInputs.cache
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\obj\Debug\netcoreapp2.1\Exercicios De Lista.AssemblyInfoInputs.cache
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\obj\Debug\netcoreapp2.1\Exercicios De Lista.AssemblyInfo.cs
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\obj\Debug\netcoreapp2.1\Exercicios De Lista.dll
+C:\Users\juneca\source\repos\Exercicios De Lista\Exercicios De Lista\obj\Debug\netcoreapp2.1\Exercicios De Lista.pdb
